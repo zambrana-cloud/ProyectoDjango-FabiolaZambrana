@@ -1,0 +1,21 @@
+/* admin.css */
+body {
+    background-color: #000000; /* Cambia el color de fondo */
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    background-color: #088a0c; /* Cambia el color del header */
+}
+
+.module h2 {
+    color: #ffffff; /* Cambia el color del texto de los títulos */
+}
+
+.model-paciente, .model-veterinario {
+    background-color: #f8f9fa; /* Cambia el fondo de los modelos */
+}
+
+.dashboard, .content {
+    background-color: #1d4161; /* Cambia el fondo de las páginas */
+}
